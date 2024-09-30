@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\temano-perfecto\\source\\repos\\Lab_1_1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B84034A3-72EF-49E7-95A2-EC6E0BDD8EFB}|example 2\\example 2.vcxproj|C:\\Users\\temano-perfecto\\source\\repos\\Lab_1_1\\example 2\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B84034A3-72EF-49E7-95A2-EC6E0BDD8EFB}|example 2\\example 2.vcxproj|solutionrelative:example 2\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F6C1977-02C4-44AB-A49F-AE24561003FD}|example1\\example1.vcxproj|C:\\Users\\temano-perfecto\\source\\repos\\Lab_1_1\\example1\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2F6C1977-02C4-44AB-A49F-AE24561003FD}|example1\\example1.vcxproj|solutionrelative:example1\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "C:\\Users\\temano-perfecto\\source\\repos\\Lab_1_1\\example1\\Source.cpp",
+              "RelativeDocumentMoniker": "example1\\Source.cpp",
+              "ToolTip": "C:\\Users\\temano-perfecto\\source\\repos\\Lab_1_1\\example1\\Source.cpp",
+              "RelativeToolTip": "example1\\Source.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-08T13:10:41.099Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "C:\\Users\\temano-perfecto\\source\\repos\\Lab_1_1\\example 2\\Source.cpp",
+              "RelativeDocumentMoniker": "example 2\\Source.cpp",
+              "ToolTip": "C:\\Users\\temano-perfecto\\source\\repos\\Lab_1_1\\example 2\\Source.cpp",
+              "RelativeToolTip": "example 2\\Source.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-08T14:15:10.806Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

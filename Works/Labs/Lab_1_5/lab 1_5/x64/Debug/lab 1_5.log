@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\temano-perfecto\source\repos\lab 1_5\lab 1_5\Source.cpp(5,14): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\temano-perfecto\source\repos\lab 1_5\lab 1_5\Source.cpp(5,24): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\temano-perfecto\source\repos\lab 1_5\lab 1_5\Source.cpp(11,14): warning C4305: инициализация: усечение из "double" в "float"
+  lab 1_5.vcxproj -> C:\Users\temano-perfecto\source\repos\lab 1_5\x64\Debug\lab 1_5.exe
