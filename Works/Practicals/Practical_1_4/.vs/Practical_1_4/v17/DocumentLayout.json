@@ -3,12 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\temano-perfecto\\source\\repos\\Practical_1_4\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CBB428F0-768E-4200-8E41-B3A995BC5812}|Practical_1_4\\Practical_1_4.vcxproj|C:\\Users\\temano-perfecto\\source\\repos\\Practical_1_4\\Practical_1_4\\task2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{CBB428F0-768E-4200-8E41-B3A995BC5812}|Practical_1_4\\Practical_1_4.vcxproj|solutionrelative:Practical_1_4\\task2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CBB428F0-768E-4200-8E41-B3A995BC5812}|Practical_1_4\\Practical_1_4.vcxproj|C:\\Users\\temano-perfecto\\source\\repos\\Practical_1_4\\Practical_1_4\\task1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{CBB428F0-768E-4200-8E41-B3A995BC5812}|Practical_1_4\\Practical_1_4.vcxproj|solutionrelative:Practical_1_4\\task1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{AFF9A19B-0EF9-4082-A25C-1B558DFF428B}|Practical_1_4\\Practical_1_4.vcxproj|C:\\Users\\temano-perfecto\\source\\repos\\Practical_1_4\\Practical_1_4\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AFF9A19B-0EF9-4082-A25C-1B558DFF428B}|Practical_1_4\\Practical_1_4.vcxproj|solutionrelative:Practical_1_4\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,27 +19,15 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "task2.cpp",
-              "DocumentMoniker": "C:\\Users\\temano-perfecto\\source\\repos\\Practical_1_4\\Practical_1_4\\task2.cpp",
-              "RelativeDocumentMoniker": "Practical_1_4\\task2.cpp",
-              "ToolTip": "C:\\Users\\temano-perfecto\\source\\repos\\Practical_1_4\\Practical_1_4\\task2.cpp",
-              "RelativeToolTip": "Practical_1_4\\task2.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAGAAAAAAAAAA==",
+              "Title": "Source.cpp",
+              "DocumentMoniker": "C:\\Users\\temano-perfecto\\source\\repos\\Practical_1_4\\Practical_1_4\\Source.cpp",
+              "RelativeDocumentMoniker": "Practical_1_4\\Source.cpp",
+              "ToolTip": "C:\\Users\\temano-perfecto\\source\\repos\\Practical_1_4\\Practical_1_4\\Source.cpp",
+              "RelativeToolTip": "Practical_1_4\\Source.cpp",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAA4AAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-10-08T11:30:37.645Z",
+              "WhenOpened": "2024-10-15T19:52:35.914Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "task1.cpp",
-              "DocumentMoniker": "C:\\Users\\temano-perfecto\\source\\repos\\Practical_1_4\\Practical_1_4\\task1.cpp",
-              "RelativeDocumentMoniker": "Practical_1_4\\task1.cpp",
-              "ToolTip": "C:\\Users\\temano-perfecto\\source\\repos\\Practical_1_4\\Practical_1_4\\task1.cpp",
-              "RelativeToolTip": "Practical_1_4\\task1.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-10-08T11:28:10.472Z"
             }
           ]
         }
