@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Kyiv Aviation Institute\\Kyiv-Aviation-Institute\\Kyiv-Aviation-Institute\\Works\\Helloween pumpkin\\Helloween pumpkin\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2E9F0012-EA91-47A5-8B5D-5BBE4B0E32C0}|Helloween pumpkin\\Helloween pumpkin.vcxproj|D:\\Kyiv Aviation Institute\\Kyiv-Aviation-Institute\\Kyiv-Aviation-Institute\\Works\\Helloween pumpkin\\Helloween pumpkin\\Helloween pumpkin\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2E9F0012-EA91-47A5-8B5D-5BBE4B0E32C0}|Helloween pumpkin\\Helloween pumpkin.vcxproj|solutionrelative:Helloween pumpkin\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "D:\\Kyiv Aviation Institute\\Kyiv-Aviation-Institute\\Kyiv-Aviation-Institute\\Works\\Helloween pumpkin\\Helloween pumpkin\\Helloween pumpkin\\Source.cpp",
+              "RelativeDocumentMoniker": "Helloween pumpkin\\Source.cpp",
+              "ToolTip": "D:\\Kyiv Aviation Institute\\Kyiv-Aviation-Institute\\Kyiv-Aviation-Institute\\Works\\Helloween pumpkin\\Helloween pumpkin\\Helloween pumpkin\\Source.cpp",
+              "RelativeToolTip": "Helloween pumpkin\\Source.cpp",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAADQAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-26T17:04:24.018Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
