@@ -1,15 +1,7 @@
-/**
- * Done by:
- * Student Name: Artem Perebyinis
- * Student Group: 123:2
- * Lab 1.7
- */
-
+#include <iostream>
 using namespace std;
-/*
-//Task 1
-int main()
-{
+
+int main() {
     {
         int nA = 5;
     }
@@ -21,26 +13,20 @@ int main()
             int nC = 2;
         }
     }
-}
-*/
-//Task 2
-/*
-static int A = 10;
-static int B;
 
-int main()
-{
+    static int A = 10;
+    static int B;
+
     B = 20;
     {
         static int E = 5;
         int C;
-        C = A * 12;
+        C = A * 12; 
         E = C + B;
     }
+
     A += 10;
     B++;
-
-//Task 3
 
     float K = 20;
     int L = 0;
@@ -66,37 +52,13 @@ int main()
         Q++;
     }
 
-    for (int i = 0; i < 5; i = i + 1) {
+    for (int i = 0; i < 5; i++) {
         static int iA = 0;
         int iB = 0;
         iA = iA + 1;
         iB = iB + 1;
     }
-}
-*/
-//Task 4
-/*
-static int A = 10;
-static int B;
 
-int main ()
-{
-    B = 20;
-    {
-        static int E = 5;
-        int C;
-        int A = 5;
-        C = ::A * 12;
-        E = C + B;
-    }
-    A += 10;
-    B++;
-}
-*/
-
-//Task 5
-
-int main() {
     int* I;
     I = new int;
     *I = 25;
@@ -106,4 +68,6 @@ int main() {
     *W = 10;
     W = I;
     delete W;
+
+    return 0;
 }
