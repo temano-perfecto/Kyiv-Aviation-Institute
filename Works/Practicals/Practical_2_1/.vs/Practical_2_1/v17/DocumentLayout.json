@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Kyiv Aviation Institute\\Kyiv-Aviation-Institute\\Kyiv-Aviation-Institute\\Works\\Practicals\\Practical_2_1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{00100855-9FDA-4482-968C-143A749B2881}|Practical_2_1\\Practical_2_1.vcxproj|D:\\Kyiv Aviation Institute\\Kyiv-Aviation-Institute\\Kyiv-Aviation-Institute\\Works\\Practicals\\Practical_2_1\\Practical_2_1\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{00100855-9FDA-4482-968C-143A749B2881}|Practical_2_1\\Practical_2_1.vcxproj|solutionrelative:Practical_2_1\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "D:\\Kyiv Aviation Institute\\Kyiv-Aviation-Institute\\Kyiv-Aviation-Institute\\Works\\Practicals\\Practical_2_1\\Practical_2_1\\Source.cpp",
+              "RelativeDocumentMoniker": "Practical_2_1\\Source.cpp",
+              "ToolTip": "D:\\Kyiv Aviation Institute\\Kyiv-Aviation-Institute\\Kyiv-Aviation-Institute\\Works\\Practicals\\Practical_2_1\\Practical_2_1\\Source.cpp",
+              "RelativeToolTip": "Practical_2_1\\Source.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJoAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-27T22:00:12.385Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
