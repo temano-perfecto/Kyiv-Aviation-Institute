@@ -1,0 +1,3 @@
+﻿  Source.cpp
+D:\Kyiv Aviation Institute\Kyiv-Aviation-Institute\Kyiv-Aviation-Institute\Works\Practicals\Practical_1_5\Practical_1_5\Practical_1_5\Source.cpp(11,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Practical_1_5.vcxproj -> D:\Kyiv Aviation Institute\Kyiv-Aviation-Institute\Kyiv-Aviation-Institute\Works\Practicals\Practical_1_5\Practical_1_5\x64\Debug\Practical_1_5.exe
