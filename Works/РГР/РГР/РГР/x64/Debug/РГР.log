@@ -1,0 +1,3 @@
+﻿  РГР.cpp
+D:\Kyiv Aviation Institute\Kyiv-Aviation-Institute\Kyiv-Aviation-Institute\Works\РГР\РГР\РГР\РГР.cpp(25,20): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  РГР.vcxproj -> D:\Kyiv Aviation Institute\Kyiv-Aviation-Institute\Kyiv-Aviation-Institute\Works\РГР\РГР\x64\Debug\РГР.exe
