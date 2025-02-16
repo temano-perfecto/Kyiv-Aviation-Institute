@@ -1,0 +1,22 @@
+C:\Users\banan\source\repos\LabOneC#\LabOneC#\bin\Debug\net8.0\LabOneC#.exe
+C:\Users\banan\source\repos\LabOneC#\LabOneC#\bin\Debug\net8.0\LabOneC#.deps.json
+C:\Users\banan\source\repos\LabOneC#\LabOneC#\bin\Debug\net8.0\LabOneC#.runtimeconfig.json
+C:\Users\banan\source\repos\LabOneC#\LabOneC#\bin\Debug\net8.0\LabOneC#.dll
+C:\Users\banan\source\repos\LabOneC#\LabOneC#\bin\Debug\net8.0\LabOneC#.pdb
+C:\Users\banan\source\repos\LabOneC#\LabOneC#\obj\Debug\net8.0\LabOneC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\banan\source\repos\LabOneC#\LabOneC#\obj\Debug\net8.0\LabOneC#.AssemblyInfoInputs.cache
+C:\Users\banan\source\repos\LabOneC#\LabOneC#\obj\Debug\net8.0\LabOneC#.AssemblyInfo.cs
+C:\Users\banan\source\repos\LabOneC#\LabOneC#\obj\Debug\net8.0\LabOneC#.csproj.CoreCompileInputs.cache
+C:\Users\banan\source\repos\LabOneC#\LabOneC#\obj\Debug\net8.0\LabOneC#.dll
+C:\Users\banan\source\repos\LabOneC#\LabOneC#\obj\Debug\net8.0\refint\LabOneC#.dll
+C:\Users\banan\source\repos\LabOneC#\LabOneC#\obj\Debug\net8.0\LabOneC#.pdb
+C:\Users\banan\source\repos\LabOneC#\LabOneC#\obj\Debug\net8.0\LabOneC#.genruntimeconfig.cache
+C:\Users\banan\source\repos\LabOneC#\LabOneC#\obj\Debug\net8.0\ref\LabOneC#.dll
+D:\Kyiv-Aviation-Institute\Kyiv-Aviation-Institute\Works\Second semester\LabOne\LabOneC#\LabOneC#\obj\Debug\net8.0\LabOneC#.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kyiv-Aviation-Institute\Kyiv-Aviation-Institute\Works\Second semester\LabOne\LabOneC#\LabOneC#\obj\Debug\net8.0\LabOneC#.AssemblyInfoInputs.cache
+D:\Kyiv-Aviation-Institute\Kyiv-Aviation-Institute\Works\Second semester\LabOne\LabOneC#\LabOneC#\obj\Debug\net8.0\LabOneC#.AssemblyInfo.cs
+D:\Kyiv-Aviation-Institute\Kyiv-Aviation-Institute\Works\Second semester\LabOne\LabOneC#\LabOneC#\obj\Debug\net8.0\LabOneC#.csproj.CoreCompileInputs.cache
+D:\Kyiv-Aviation-Institute\Kyiv-Aviation-Institute\Works\Second semester\LabOne\LabOneC#\LabOneC#\obj\Debug\net8.0\LabOneC#.sourcelink.json
+D:\Kyiv-Aviation-Institute\Kyiv-Aviation-Institute\Works\Second semester\LabOne\LabOneC#\LabOneC#\obj\Debug\net8.0\LabOneC#.dll
+D:\Kyiv-Aviation-Institute\Kyiv-Aviation-Institute\Works\Second semester\LabOne\LabOneC#\LabOneC#\obj\Debug\net8.0\refint\LabOneC#.dll
+D:\Kyiv-Aviation-Institute\Kyiv-Aviation-Institute\Works\Second semester\LabOne\LabOneC#\LabOneC#\obj\Debug\net8.0\LabOneC#.pdb

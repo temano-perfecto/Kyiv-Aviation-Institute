@@ -1,0 +1,8 @@
+﻿  Source.cpp
+C:\Users\banan\source\repos\LabOneC++\LabOneC++\SectionClass.h(16,21): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "Source.cpp")
+  
+C:\Users\banan\source\repos\LabOneC++\LabOneC++\SectionClass.h(17,22): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "Source.cpp")
+  
+  LabOneC++.vcxproj -> C:\Users\banan\source\repos\LabOneC++\x64\Debug\LabOneC++.exe
