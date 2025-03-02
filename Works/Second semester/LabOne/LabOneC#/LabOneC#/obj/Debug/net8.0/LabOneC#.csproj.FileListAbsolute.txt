@@ -20,3 +20,10 @@ D:\Kyiv-Aviation-Institute\Kyiv-Aviation-Institute\Works\Second semester\LabOne\
 D:\Kyiv-Aviation-Institute\Kyiv-Aviation-Institute\Works\Second semester\LabOne\LabOneC#\LabOneC#\obj\Debug\net8.0\LabOneC#.dll
 D:\Kyiv-Aviation-Institute\Kyiv-Aviation-Institute\Works\Second semester\LabOne\LabOneC#\LabOneC#\obj\Debug\net8.0\refint\LabOneC#.dll
 D:\Kyiv-Aviation-Institute\Kyiv-Aviation-Institute\Works\Second semester\LabOne\LabOneC#\LabOneC#\obj\Debug\net8.0\LabOneC#.pdb
+D:\Kyiv-Aviation-Institute\Kyiv-Aviation-Institute\Works\Second semester\LabOne\LabOneC#\LabOneC#\bin\Debug\net8.0\LabOneC#.exe
+D:\Kyiv-Aviation-Institute\Kyiv-Aviation-Institute\Works\Second semester\LabOne\LabOneC#\LabOneC#\bin\Debug\net8.0\LabOneC#.deps.json
+D:\Kyiv-Aviation-Institute\Kyiv-Aviation-Institute\Works\Second semester\LabOne\LabOneC#\LabOneC#\bin\Debug\net8.0\LabOneC#.runtimeconfig.json
+D:\Kyiv-Aviation-Institute\Kyiv-Aviation-Institute\Works\Second semester\LabOne\LabOneC#\LabOneC#\bin\Debug\net8.0\LabOneC#.dll
+D:\Kyiv-Aviation-Institute\Kyiv-Aviation-Institute\Works\Second semester\LabOne\LabOneC#\LabOneC#\bin\Debug\net8.0\LabOneC#.pdb
+D:\Kyiv-Aviation-Institute\Kyiv-Aviation-Institute\Works\Second semester\LabOne\LabOneC#\LabOneC#\obj\Debug\net8.0\LabOneC#.genruntimeconfig.cache
+D:\Kyiv-Aviation-Institute\Kyiv-Aviation-Institute\Works\Second semester\LabOne\LabOneC#\LabOneC#\obj\Debug\net8.0\ref\LabOneC#.dll
