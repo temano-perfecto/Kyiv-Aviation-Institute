@@ -1,0 +1,14 @@
+C:\Users\banan\source\repos\LabthreeC#\LabthreeC#\bin\Debug\net8.0\LabthreeC#.exe
+C:\Users\banan\source\repos\LabthreeC#\LabthreeC#\bin\Debug\net8.0\LabthreeC#.deps.json
+C:\Users\banan\source\repos\LabthreeC#\LabthreeC#\bin\Debug\net8.0\LabthreeC#.runtimeconfig.json
+C:\Users\banan\source\repos\LabthreeC#\LabthreeC#\bin\Debug\net8.0\LabthreeC#.dll
+C:\Users\banan\source\repos\LabthreeC#\LabthreeC#\bin\Debug\net8.0\LabthreeC#.pdb
+C:\Users\banan\source\repos\LabthreeC#\LabthreeC#\obj\Debug\net8.0\LabthreeC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\banan\source\repos\LabthreeC#\LabthreeC#\obj\Debug\net8.0\LabthreeC#.AssemblyInfoInputs.cache
+C:\Users\banan\source\repos\LabthreeC#\LabthreeC#\obj\Debug\net8.0\LabthreeC#.AssemblyInfo.cs
+C:\Users\banan\source\repos\LabthreeC#\LabthreeC#\obj\Debug\net8.0\LabthreeC#.csproj.CoreCompileInputs.cache
+C:\Users\banan\source\repos\LabthreeC#\LabthreeC#\obj\Debug\net8.0\LabthreeC#.dll
+C:\Users\banan\source\repos\LabthreeC#\LabthreeC#\obj\Debug\net8.0\refint\LabthreeC#.dll
+C:\Users\banan\source\repos\LabthreeC#\LabthreeC#\obj\Debug\net8.0\LabthreeC#.pdb
+C:\Users\banan\source\repos\LabthreeC#\LabthreeC#\obj\Debug\net8.0\LabthreeC#.genruntimeconfig.cache
+C:\Users\banan\source\repos\LabthreeC#\LabthreeC#\obj\Debug\net8.0\ref\LabthreeC#.dll

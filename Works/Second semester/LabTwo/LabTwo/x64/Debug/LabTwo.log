@@ -1,11 +1,11 @@
 ﻿  Source.cpp
-C:\Users\banan\source\repos\LabTwo\LabTwo\Section.h(28,27): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+D:\Kyiv-Aviation-Institute\Kyiv-Aviation-Institute\Works\Second semester\LabTwo\LabTwo\Section.h(28,27): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
   (компиляция исходного файла "Source.cpp")
   
-C:\Users\banan\source\repos\LabTwo\LabTwo\Section.h(29,28): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+D:\Kyiv-Aviation-Institute\Kyiv-Aviation-Institute\Works\Second semester\LabTwo\LabTwo\Section.h(29,28): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
   (компиляция исходного файла "Source.cpp")
   
-C:\Users\banan\source\repos\LabTwo\LabTwo\Section.h(40,30): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+D:\Kyiv-Aviation-Institute\Kyiv-Aviation-Institute\Works\Second semester\LabTwo\LabTwo\Section.h(40,30): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
   (компиляция исходного файла "Source.cpp")
   
-  LabTwo.vcxproj -> C:\Users\banan\source\repos\LabTwo\x64\Debug\LabTwo.exe
+  LabTwo.vcxproj -> D:\Kyiv-Aviation-Institute\Kyiv-Aviation-Institute\Works\Second semester\LabTwo\x64\Debug\LabTwo.exe

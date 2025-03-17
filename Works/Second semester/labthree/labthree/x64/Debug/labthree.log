@@ -1,5 +1,0 @@
-﻿  main.cpp
-C:\Users\banan\source\repos\labthree\labthree\StringDigits.h(35,8): warning C4101: c: неиспользованная локальная переменная
-  (компиляция исходного файла "main.cpp")
-  
-  labthree.vcxproj -> C:\Users\banan\source\repos\labthree\x64\Debug\labthree.exe
