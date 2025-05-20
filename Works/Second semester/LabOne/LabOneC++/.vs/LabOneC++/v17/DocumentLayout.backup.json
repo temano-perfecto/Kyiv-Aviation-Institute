@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\banan\\source\\repos\\LabOneC\u002B\u002B\\",
+  "WorkspaceRootPath": "D:\\Kyiv-Aviation-Institute\\Kyiv-Aviation-Institute\\Works\\Second semester\\LabOne\\LabOneC\u002B\u002B\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{68ECD02B-4A00-467E-A656-DAC3EB393F51}|LabOneC\u002B\u002B\\LabOneC\u002B\u002B.vcxproj|C:\\Users\\banan\\source\\repos\\LabOneC\u002B\u002B\\LabOneC\u002B\u002B\\SectionClass.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{68ECD02B-4A00-467E-A656-DAC3EB393F51}|LabOneC\u002B\u002B\\LabOneC\u002B\u002B.vcxproj|D:\\Kyiv-Aviation-Institute\\Kyiv-Aviation-Institute\\Works\\Second semester\\LabOne\\LabOneC\u002B\u002B\\LabOneC\u002B\u002B\\SectionClass.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{68ECD02B-4A00-467E-A656-DAC3EB393F51}|LabOneC\u002B\u002B\\LabOneC\u002B\u002B.vcxproj|solutionrelative:LabOneC\u002B\u002B\\SectionClass.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{68ECD02B-4A00-467E-A656-DAC3EB393F51}|LabOneC\u002B\u002B\\LabOneC\u002B\u002B.vcxproj|C:\\Users\\banan\\source\\repos\\LabOneC\u002B\u002B\\LabOneC\u002B\u002B\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{68ECD02B-4A00-467E-A656-DAC3EB393F51}|LabOneC\u002B\u002B\\LabOneC\u002B\u002B.vcxproj|D:\\Kyiv-Aviation-Institute\\Kyiv-Aviation-Institute\\Works\\Second semester\\LabOne\\LabOneC\u002B\u002B\\LabOneC\u002B\u002B\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{68ECD02B-4A00-467E-A656-DAC3EB393F51}|LabOneC\u002B\u002B\\LabOneC\u002B\u002B.vcxproj|solutionrelative:LabOneC\u002B\u002B\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -24,9 +24,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Source.cpp",
-              "DocumentMoniker": "C:\\Users\\banan\\source\\repos\\LabOneC\u002B\u002B\\LabOneC\u002B\u002B\\Source.cpp",
+              "DocumentMoniker": "D:\\Kyiv-Aviation-Institute\\Kyiv-Aviation-Institute\\Works\\Second semester\\LabOne\\LabOneC\u002B\u002B\\LabOneC\u002B\u002B\\Source.cpp",
               "RelativeDocumentMoniker": "LabOneC\u002B\u002B\\Source.cpp",
-              "ToolTip": "C:\\Users\\banan\\source\\repos\\LabOneC\u002B\u002B\\LabOneC\u002B\u002B\\Source.cpp",
+              "ToolTip": "D:\\Kyiv-Aviation-Institute\\Kyiv-Aviation-Institute\\Works\\Second semester\\LabOne\\LabOneC\u002B\u002B\\LabOneC\u002B\u002B\\Source.cpp",
               "RelativeToolTip": "LabOneC\u002B\u002B\\Source.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
@@ -37,11 +37,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "SectionClass.h",
-              "DocumentMoniker": "C:\\Users\\banan\\source\\repos\\LabOneC\u002B\u002B\\LabOneC\u002B\u002B\\SectionClass.h",
+              "DocumentMoniker": "D:\\Kyiv-Aviation-Institute\\Kyiv-Aviation-Institute\\Works\\Second semester\\LabOne\\LabOneC\u002B\u002B\\LabOneC\u002B\u002B\\SectionClass.h",
               "RelativeDocumentMoniker": "LabOneC\u002B\u002B\\SectionClass.h",
-              "ToolTip": "C:\\Users\\banan\\source\\repos\\LabOneC\u002B\u002B\\LabOneC\u002B\u002B\\SectionClass.h",
+              "ToolTip": "D:\\Kyiv-Aviation-Institute\\Kyiv-Aviation-Institute\\Works\\Second semester\\LabOne\\LabOneC\u002B\u002B\\LabOneC\u002B\u002B\\SectionClass.h",
               "RelativeToolTip": "LabOneC\u002B\u002B\\SectionClass.h",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-02-16T20:18:00.072Z",
               "EditorCaption": ""

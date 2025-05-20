@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\banan\\source\\repos\\LabthreeC#\\LabthreeC#\\LabthreeC#.csproj": {}
+    "D:\\Kyiv-Aviation-Institute\\Kyiv-Aviation-Institute\\Works\\Second semester\\labthree\\LabthreeC#\\LabthreeC#\\LabthreeC#.csproj": {}
   },
   "projects": {
-    "C:\\Users\\banan\\source\\repos\\LabthreeC#\\LabthreeC#\\LabthreeC#.csproj": {
+    "D:\\Kyiv-Aviation-Institute\\Kyiv-Aviation-Institute\\Works\\Second semester\\labthree\\LabthreeC#\\LabthreeC#\\LabthreeC#.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\banan\\source\\repos\\LabthreeC#\\LabthreeC#\\LabthreeC#.csproj",
+        "projectUniqueName": "D:\\Kyiv-Aviation-Institute\\Kyiv-Aviation-Institute\\Works\\Second semester\\labthree\\LabthreeC#\\LabthreeC#\\LabthreeC#.csproj",
         "projectName": "LabthreeC#",
-        "projectPath": "C:\\Users\\banan\\source\\repos\\LabthreeC#\\LabthreeC#\\LabthreeC#.csproj",
+        "projectPath": "D:\\Kyiv-Aviation-Institute\\Kyiv-Aviation-Institute\\Works\\Second semester\\labthree\\LabthreeC#\\LabthreeC#\\LabthreeC#.csproj",
         "packagesPath": "C:\\Users\\banan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\banan\\source\\repos\\LabthreeC#\\LabthreeC#\\obj\\",
+        "outputPath": "D:\\Kyiv-Aviation-Institute\\Kyiv-Aviation-Institute\\Works\\Second semester\\labthree\\LabthreeC#\\LabthreeC#\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

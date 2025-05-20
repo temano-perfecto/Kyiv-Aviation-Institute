@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "D:\\Kyiv-Aviation-Institute\\Kyiv-Aviation-Institute\\Works\\Second semester\\LabTwo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{97B3DE1A-6CB7-49AE-ACD8-963107322C75}|LabTwo\\LabTwo.vcxproj|D:\\Kyiv-Aviation-Institute\\Kyiv-Aviation-Institute\\Works\\Second semester\\LabTwo\\LabTwo\\Section.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{97B3DE1A-6CB7-49AE-ACD8-963107322C75}|LabTwo\\LabTwo.vcxproj|solutionrelative:LabTwo\\Section.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{97B3DE1A-6CB7-49AE-ACD8-963107322C75}|LabTwo\\LabTwo.vcxproj|D:\\Kyiv-Aviation-Institute\\Kyiv-Aviation-Institute\\Works\\Second semester\\LabTwo\\LabTwo\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{97B3DE1A-6CB7-49AE-ACD8-963107322C75}|LabTwo\\LabTwo.vcxproj|solutionrelative:LabTwo\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97B3DE1A-6CB7-49AE-ACD8-963107322C75}|LabTwo\\LabTwo.vcxproj|D:\\Kyiv-Aviation-Institute\\Kyiv-Aviation-Institute\\Works\\Second semester\\LabTwo\\LabTwo\\Section.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{97B3DE1A-6CB7-49AE-ACD8-963107322C75}|LabTwo\\LabTwo.vcxproj|solutionrelative:LabTwo\\Section.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,11 +18,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Source.cpp",
               "DocumentMoniker": "D:\\Kyiv-Aviation-Institute\\Kyiv-Aviation-Institute\\Works\\Second semester\\LabTwo\\LabTwo\\Source.cpp",
               "RelativeDocumentMoniker": "LabTwo\\Source.cpp",
@@ -30,17 +30,18 @@
               "RelativeToolTip": "LabTwo\\Source.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-03-02T19:16:22.188Z"
+              "WhenOpened": "2025-03-02T19:16:22.188Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Section.h",
               "DocumentMoniker": "D:\\Kyiv-Aviation-Institute\\Kyiv-Aviation-Institute\\Works\\Second semester\\LabTwo\\LabTwo\\Section.h",
               "RelativeDocumentMoniker": "LabTwo\\Section.h",
               "ToolTip": "D:\\Kyiv-Aviation-Institute\\Kyiv-Aviation-Institute\\Works\\Second semester\\LabTwo\\LabTwo\\Section.h",
               "RelativeToolTip": "LabTwo\\Section.h",
-              "ViewState": "AgIAABYAAAAAAAAAAAAAAAoAAAADAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-03-02T19:15:03.921Z",
               "EditorCaption": ""
