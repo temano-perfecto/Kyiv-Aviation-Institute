@@ -1,0 +1,14 @@
+C:\Users\banan\source\repos\Lab.2.3c#\Lab.2.3c#\bin\Debug\net8.0\Lab.2.3c#.exe
+C:\Users\banan\source\repos\Lab.2.3c#\Lab.2.3c#\bin\Debug\net8.0\Lab.2.3c#.deps.json
+C:\Users\banan\source\repos\Lab.2.3c#\Lab.2.3c#\bin\Debug\net8.0\Lab.2.3c#.runtimeconfig.json
+C:\Users\banan\source\repos\Lab.2.3c#\Lab.2.3c#\bin\Debug\net8.0\Lab.2.3c#.dll
+C:\Users\banan\source\repos\Lab.2.3c#\Lab.2.3c#\bin\Debug\net8.0\Lab.2.3c#.pdb
+C:\Users\banan\source\repos\Lab.2.3c#\Lab.2.3c#\obj\Debug\net8.0\Lab.2.3c#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\banan\source\repos\Lab.2.3c#\Lab.2.3c#\obj\Debug\net8.0\Lab.2.3c#.AssemblyInfoInputs.cache
+C:\Users\banan\source\repos\Lab.2.3c#\Lab.2.3c#\obj\Debug\net8.0\Lab.2.3c#.AssemblyInfo.cs
+C:\Users\banan\source\repos\Lab.2.3c#\Lab.2.3c#\obj\Debug\net8.0\Lab.2.3c#.csproj.CoreCompileInputs.cache
+C:\Users\banan\source\repos\Lab.2.3c#\Lab.2.3c#\obj\Debug\net8.0\Lab.2.3c#.dll
+C:\Users\banan\source\repos\Lab.2.3c#\Lab.2.3c#\obj\Debug\net8.0\refint\Lab.2.3c#.dll
+C:\Users\banan\source\repos\Lab.2.3c#\Lab.2.3c#\obj\Debug\net8.0\Lab.2.3c#.pdb
+C:\Users\banan\source\repos\Lab.2.3c#\Lab.2.3c#\obj\Debug\net8.0\Lab.2.3c#.genruntimeconfig.cache
+C:\Users\banan\source\repos\Lab.2.3c#\Lab.2.3c#\obj\Debug\net8.0\ref\Lab.2.3c#.dll

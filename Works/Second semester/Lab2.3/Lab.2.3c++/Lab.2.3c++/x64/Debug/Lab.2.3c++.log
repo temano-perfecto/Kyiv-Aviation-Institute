@@ -1,0 +1,21 @@
+﻿  main.cpp
+C:\Users\banan\source\repos\Lab.2.3c++\Lab.2.3c++\main.cpp(29,24): warning C4244: инициализация: преобразование "__int64" в "int", возможна потеря данных
+C:\Users\banan\source\repos\Lab.2.3c++\Lab.2.3c++\main.cpp(35,29): warning C4244: return: преобразование "__int64" в "int", возможна потеря данных
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\numeric(33,26): warning C4267: =: преобразование из "size_t" в "_Ty"; возможна потеря данных
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\numeric(33,26): warning C4267:         with
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\numeric(33,26): warning C4267:         [
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\numeric(33,26): warning C4267:             _Ty=int
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\numeric(33,26): warning C4267:         ]
+  (компиляция исходного файла "main.cpp")
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\numeric(33,26):
+      контекст создания экземпляра шаблона (сначала самый старый)
+          C:\Users\banan\source\repos\Lab.2.3c++\Lab.2.3c++\main.cpp(84,21):
+          выполняется компиляция ссылки на экземпляр шаблон функции "_Ty std::accumulate<std::_Vector_const_iterator<std::_Vector_val<std::_Simple_types<std::unique_ptr<StringLine,std::default_delete<StringLine>>>>>,int,TextContainer::getTotalCharacterCount::<lambda_1>>(const _InIt,const _InIt,_Ty,_Fn)"
+          with
+          [
+              _Ty=int,
+              _InIt=std::_Vector_const_iterator<std::_Vector_val<std::_Simple_types<std::unique_ptr<StringLine,std::default_delete<StringLine>>>>>,
+              _Fn=TextContainer::getTotalCharacterCount::<lambda_1>
+          ]
+  
+  Lab.2.3c++.vcxproj -> C:\Users\banan\source\repos\Lab.2.3c++\x64\Debug\Lab.2.3c++.exe
