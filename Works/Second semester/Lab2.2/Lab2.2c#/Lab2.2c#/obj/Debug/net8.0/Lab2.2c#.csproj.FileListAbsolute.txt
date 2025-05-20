@@ -1,0 +1,14 @@
+C:\Users\banan\source\repos\Lab2.2c#\Lab2.2c#\obj\Debug\net8.0\Lab2.2c#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\banan\source\repos\Lab2.2c#\Lab2.2c#\obj\Debug\net8.0\Lab2.2c#.AssemblyInfoInputs.cache
+C:\Users\banan\source\repos\Lab2.2c#\Lab2.2c#\obj\Debug\net8.0\Lab2.2c#.AssemblyInfo.cs
+C:\Users\banan\source\repos\Lab2.2c#\Lab2.2c#\obj\Debug\net8.0\Lab2.2c#.csproj.CoreCompileInputs.cache
+C:\Users\banan\source\repos\Lab2.2c#\Lab2.2c#\bin\Debug\net8.0\Lab2.2c#.exe
+C:\Users\banan\source\repos\Lab2.2c#\Lab2.2c#\bin\Debug\net8.0\Lab2.2c#.deps.json
+C:\Users\banan\source\repos\Lab2.2c#\Lab2.2c#\bin\Debug\net8.0\Lab2.2c#.runtimeconfig.json
+C:\Users\banan\source\repos\Lab2.2c#\Lab2.2c#\bin\Debug\net8.0\Lab2.2c#.dll
+C:\Users\banan\source\repos\Lab2.2c#\Lab2.2c#\bin\Debug\net8.0\Lab2.2c#.pdb
+C:\Users\banan\source\repos\Lab2.2c#\Lab2.2c#\obj\Debug\net8.0\Lab2.2c#.dll
+C:\Users\banan\source\repos\Lab2.2c#\Lab2.2c#\obj\Debug\net8.0\refint\Lab2.2c#.dll
+C:\Users\banan\source\repos\Lab2.2c#\Lab2.2c#\obj\Debug\net8.0\Lab2.2c#.pdb
+C:\Users\banan\source\repos\Lab2.2c#\Lab2.2c#\obj\Debug\net8.0\Lab2.2c#.genruntimeconfig.cache
+C:\Users\banan\source\repos\Lab2.2c#\Lab2.2c#\obj\Debug\net8.0\ref\Lab2.2c#.dll
