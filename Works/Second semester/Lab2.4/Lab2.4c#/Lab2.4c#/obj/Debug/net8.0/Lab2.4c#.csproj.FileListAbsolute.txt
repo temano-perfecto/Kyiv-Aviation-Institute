@@ -1,0 +1,14 @@
+C:\Users\banan\source\repos\Lab2.4c#\Lab2.4c#\bin\Debug\net8.0\Lab2.4c#.exe
+C:\Users\banan\source\repos\Lab2.4c#\Lab2.4c#\bin\Debug\net8.0\Lab2.4c#.deps.json
+C:\Users\banan\source\repos\Lab2.4c#\Lab2.4c#\bin\Debug\net8.0\Lab2.4c#.runtimeconfig.json
+C:\Users\banan\source\repos\Lab2.4c#\Lab2.4c#\bin\Debug\net8.0\Lab2.4c#.dll
+C:\Users\banan\source\repos\Lab2.4c#\Lab2.4c#\bin\Debug\net8.0\Lab2.4c#.pdb
+C:\Users\banan\source\repos\Lab2.4c#\Lab2.4c#\obj\Debug\net8.0\Lab2.4c#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\banan\source\repos\Lab2.4c#\Lab2.4c#\obj\Debug\net8.0\Lab2.4c#.AssemblyInfoInputs.cache
+C:\Users\banan\source\repos\Lab2.4c#\Lab2.4c#\obj\Debug\net8.0\Lab2.4c#.AssemblyInfo.cs
+C:\Users\banan\source\repos\Lab2.4c#\Lab2.4c#\obj\Debug\net8.0\Lab2.4c#.csproj.CoreCompileInputs.cache
+C:\Users\banan\source\repos\Lab2.4c#\Lab2.4c#\obj\Debug\net8.0\Lab2.4c#.dll
+C:\Users\banan\source\repos\Lab2.4c#\Lab2.4c#\obj\Debug\net8.0\refint\Lab2.4c#.dll
+C:\Users\banan\source\repos\Lab2.4c#\Lab2.4c#\obj\Debug\net8.0\Lab2.4c#.pdb
+C:\Users\banan\source\repos\Lab2.4c#\Lab2.4c#\obj\Debug\net8.0\Lab2.4c#.genruntimeconfig.cache
+C:\Users\banan\source\repos\Lab2.4c#\Lab2.4c#\obj\Debug\net8.0\ref\Lab2.4c#.dll
